@@ -1,0 +1,38 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+  font-weight: 200;
+  letter-spacing: 1px;
+  background: rgb(238, 221, 224);  
+}
+
+*{
+    margin:0;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.clearfix:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
+html {
+    scroll-behavior: smooth;
+    overflow-y: visible;
+}
+
+ul{
+    list-style: none;
+}
+
+.wrapper {
+    overflow: hidden;
+}
