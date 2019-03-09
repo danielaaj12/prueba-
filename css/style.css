@@ -34,20 +34,38 @@ ul {
   font-size: 192%;
   margin-left: 7%; }
 
+.contact-container {
+  margin-top: 112px;
+  margin-left: -106px; }
+
+.icons-contact {
+  width: 4%;
+  margin-left: 30%; }
+
+.icons-info {
+  margin-left: 36%;
+  margin-top: -27px;
+  padding-bottom: 28px; }
+
+.networks-container {
+  margin-top: 24px;
+  margin-left: 12%; }
+
+.instagram, .facebook, .whatsapp {
+  width: 11%; }
+
 .accesorios_title {
   margin-top: 19%;
   font-size: 192%;
   margin-left: 7%; }
 
-.accesorio1, .accesorio3, .accesorio4, .accesorio5, .accesorio6, .accesorio7, .accesorio8, .accesorio9, .accesorio10, .accesorio11, .accesorio12 {
-  width: 60%; }
-
-.accesorio1 {
-  margin-top: 23%;
+.accesorio_1, .accesorio_3, .accesorio_4, .accesorio_5, .accesorio_6, .accesorio_7, .accesorio_8, .accesorio_9, .accesorio_10, .accesorio_11, .accesorio_12 {
+  width: 60%;
+  margin-top: 25%;
   margin-left: 21%; }
 
-.accesorio3, .accesorio4, .accesorio5, .accesorio6, .accesorio7, .accesorio8, .accesorio9, .accesorio10, .accesorio11, .accesorio12 {
-  margin-top: 25%;
+.accesorio_1 {
+  margin-top: 23%;
   margin-left: 21%; }
 
 .hamburguer-btn {
@@ -134,6 +152,11 @@ ul {
   margin-top: 19%;
   font-size: 192%;
   margin-left: 7%; }
+
+.ropa {
+  width: 60%;
+  margin-top: 25%;
+  margin-left: 21%; }
 
 @media (max-width: 1220px) and (max-width: 768px) {
   .hamburguer {
